@@ -1,3 +1,13 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/docs/_sidebar." }]
-}md
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [{ "key": "x-robots-tag", "value": "noindex" }]
+    }
+  ],
+  "redirects": [{ "source": "/", "destination": "/preview/" }],
+  "rewrites": [
+    { "source": "/preview/CHANGELOG.md", "destination": "/CHANGELOG.md" },
+    { "source": "/preview/:path*", "destination": "/docs/:path*" }
+  ]
+}
