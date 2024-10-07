@@ -17,8 +17,8 @@
 
   <div style="flex: 1; margin-right: 20px;">
     <h3>Speaker 1</h3>
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQF3TGEllGtLXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725545171953?e=1733356800&v=beta&t=8UlkXUSwyX7-3-O-gaNiUksyectk53Bkgt40o89shC0" alt="Aiman Rahim's Picture" width="200" />  
-    <strong>Name:</strong> Aiman Rahim<br>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQF3TGEllGtLXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725545171953?e=1733356800&v=beta&t=8UlkXUSwyX7-3-O-gaNiUksyectk53Bkgt40o89shC0" alt="Aiman Rahim's Picture" width="200" style="border-radius: 50%; padding: 10px;" />  
+    <br><strong>Name:</strong> Aiman Rahim<br>
     <strong>Title:</strong> Lead Developer at Tech Innovations<br>
     <strong>Bio:</strong> Aiman is an experienced full-stack developer with over a decade of experience in building scalable web applications. She is passionate about new technologies and is an advocate for best practices in software development.<br>
     <strong>Social Media:</strong><br>
@@ -28,8 +28,8 @@
 
   <div style="flex: 1; margin-left: 20px;">
     <h3>Speaker 2</h3>
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQH-8rD1L-nJXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719680583895?e=1733356800&v=beta&t=XSuWgjVX5iWnr1MQlBcGM2mLNnu0WV2MW_f0CuMcZY0" alt="Nuriman Quddus's Picture" width="200" />  
-    <strong>Name:</strong> Nuriman Quddus<br>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQH-8rD1L-nJXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719680583895?e=1733356800&v=beta&t=XSuWgjVX5iWnr1MQlBcGM2mLNnu0WV2MW_f0CuMcZY0" alt="Nuriman Quddus's Picture" width="200" style="border-radius: 50%; padding: 10px;" />  
+    <br><strong>Name:</strong> Nuriman Quddus<br>
     <strong>Title:</strong> CTO at Creative Solutions<br>
     <strong>Bio:</strong> Nuriman is a technology visionary with expertise in backend systems and cloud architecture. He has led multiple high-profile projects and enjoys sharing his knowledge with the community.<br>
     <strong>Social Media:</strong><br>
@@ -84,13 +84,6 @@ Get to know the amazing members of the DeTA team:
     <a href="https://github.com/haikalakif">GitHub</a>
   </div>
 
-  <!-- <div style="flex: 0 0 auto; width: 200px; margin-right: 20px; border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
-    <strong>Haikal Akif</strong><br>
-    <img src="https://media.licdn.com/dms/image/v2/C5603AQHRr_3MzzwpPg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1653537110590?e=1733356800&v=beta&t=7P5qp5AbEYz0TYbXCwDrMEJADae1HtYga-qSPdmyLLk" alt="Haikal Akif's Picture" width="150" /><br>
-    <a href="https://github.com/haikalakif">GitHub</a>
-  </div>
-
-
   <div style="flex: 0 0 auto; width: 200px; margin-right: 20px; border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
     <strong>Haikal Akif</strong><br>
     <img src="https://media.licdn.com/dms/image/v2/C5603AQHRr_3MzzwpPg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1653537110590?e=1733356800&v=beta&t=7P5qp5AbEYz0TYbXCwDrMEJADae1HtYga-qSPdmyLLk" alt="Haikal Akif's Picture" width="150" /><br>
@@ -111,15 +104,21 @@ Get to know the amazing members of the DeTA team:
     <a href="https://github.com/haikalakif">GitHub</a>
   </div>
 
+
   <div style="flex: 0 0 auto; width: 200px; margin-right: 20px; border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
     <strong>Haikal Akif</strong><br>
     <img src="https://media.licdn.com/dms/image/v2/C5603AQHRr_3MzzwpPg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1653537110590?e=1733356800&v=beta&t=7P5qp5AbEYz0TYbXCwDrMEJADae1HtYga-qSPdmyLLk" alt="Haikal Akif's Picture" width="150" /><br>
     <a href="https://github.com/haikalakif">GitHub</a>
   </div>
 
-</div> -->
+  <div style="flex: 0 0 auto; width: 200px; margin-right: 20px; border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
+    <strong>Haikal Akif</strong><br>
+    <img src="https://media.licdn.com/dms/image/v2/C5603AQHRr_3MzzwpPg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1653537110590?e=1733356800&v=beta&t=7P5qp5AbEYz0TYbXCwDrMEJADae1HtYga-qSPdmyLLk" alt="Haikal Akif's Picture" width="150" /><br>
+    <a href="https://github.com/haikalakif">GitHub</a>
+  </div>
 
----
+</div>
+
 
 
 ## Visit Motion U Website
