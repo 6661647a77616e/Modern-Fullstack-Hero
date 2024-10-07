@@ -13,32 +13,31 @@
 
 ## Get To Know Our Speakers
 
-<div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 20px;">
-    <h3>Speaker 1</h3>
+    <h3 style="color: #2E8B57;">Speaker 1</h3> <!-- Title color -->
     <img src="https://media.licdn.com/dms/image/v2/D5603AQF3TGEllGtLXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725545171953?e=1733356800&v=beta&t=8UlkXUSwyX7-3-O-gaNiUksyectk53Bkgt40o89shC0" alt="Aiman Rahim's Picture" width="200" style="border-radius: 50%; padding: 10px;" />  
-    <br><strong>Name:</strong> Aiman Rahim<br>
-    <strong>Title:</strong> Lead Developer at Tech Innovations<br>
-    <strong>Bio:</strong> Aiman is an experienced full-stack developer with over a decade of experience in building scalable web applications. She is passionate about new technologies and is an advocate for best practices in software development.<br>
+    <br><span style="color: #32CD32;">Aiman Rahim</span><br> <!-- Name color -->
+    Lead Developer at Tech Innovations<br>
+    Experienced full-stack developer with over a decade of experience in building scalable web applications. He is passionate about new technologies and is an advocate for best practices in software development.<br>
     <strong>Social Media:</strong><br>
      <a href="https://www.linkedin.com/in/aiman-rahim-grad-eng-4267091a3/">LinkedIn</a>  
      <a href="https://github.com/plashspeed-aiman">GitHub</a>  
   </div>
 
   <div style="flex: 1; margin-left: 20px;">
-    <h3>Speaker 2</h3>
+    <h3 style="color: #2E8B57;">Speaker 2</h3> <!-- Title color -->
     <img src="https://media.licdn.com/dms/image/v2/D5603AQH-8rD1L-nJXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719680583895?e=1733356800&v=beta&t=XSuWgjVX5iWnr1MQlBcGM2mLNnu0WV2MW_f0CuMcZY0" alt="Nuriman Quddus's Picture" width="200" style="border-radius: 50%; padding: 10px;" />  
-    <br><strong>Name:</strong> Nuriman Quddus<br>
-    <strong>Title:</strong> CTO at Creative Solutions<br>
-    <strong>Bio:</strong> Nuriman is a technology visionary with expertise in backend systems and cloud architecture. He has led multiple high-profile projects and enjoys sharing his knowledge with the community.<br>
+    <br><span style="color: #32CD32;">Nuriman Quddus</span><br> <!-- Name color -->
+    </strong> CTO at Creative Solutions<br>
+   </strong> Nuriman is a technology visionary with expertise in backend systems and cloud architecture. He has led multiple high-profile projects and enjoys sharing his knowledge with the community.<br>
     <strong>Social Media:</strong><br>
    <a href="https://www.linkedin.com/in/nuriman-quddus/">LinkedIn</a>  
     <a href="https://github.com/nurimanquddus">GitHub</a>  
   </div>
 
 </div>
-
 
 ---
 
