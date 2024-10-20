@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [DAY 0: Worskhop Prerequisite](Worskhop_Prerequisite/what_to_download.md)
+* [DAY 0: Worskhop Prerequisite](DAY0/preparation.md)
 * [DAY 1: FrontEnd Development 🔒](#)
   <!-- * [Basic Web Development](FrontEnd_Day1/basic_html_js.html) 
   * [Vue](FrontEnd_Day1/vue.md) --> 
