@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Step-by-Step Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        code {
+            background-color: #f8f8f8;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        pre {
+            background-color: #f8f8f8;
+            padding: 10px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Step-by-Step Documentation to Create a Simple Webpage</h1>
+
+    <h2>Step 1: Create the HTML Structure</h2>
+    <p>First, we need to create the basic structure of our HTML document, including the <code>&lt;head&gt;</code> and <code>&lt;body&gt;</code> sections.</p>
+    <pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;My Website&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;!-- Content will go here --&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+    <h2>Step 2: Add a Marquee</h2>
+    <p>Next, we'll add a marquee element to display a scrolling text at the top of the page.</p>
+    <pre><code>&lt;marquee&gt;My Website&lt;/marquee&gt;</code></pre>
+
+    <h2>Step 3: Add a Header and Paragraph</h2>
+    <p>We'll add a header and a paragraph to introduce the webpage content.</p>
+    <pre><code>&lt;h1&gt;Welkam&lt;/h1&gt;
+&lt;p&gt;This is my website&lt;/p&gt;</code></pre>
+
+    <h2>Step 4: Add an Image</h2>
+    <p>Insert an image element. Make sure to provide a valid <code>src</code> attribute for the image URL.</p>
+    <pre><code>&lt;img src="URL_TO_IMAGE" alt="Description of Image" /&gt;</code></pre>
+
+    <h2>Step 5: Create a Link</h2>
+    <p>Add a hyperlink to direct users to another page.</p>
+    <pre><code>&lt;a href="URL_TO_LINK"&gt;Click this!&lt;/a&gt;</code></pre>
+
+    <h2>Step 6: Create a Form</h2>
+    <p>Add a form with a label and an input field for user input.</p>
+    <pre><code>&lt;form&gt;
+    &lt;label&gt;FORM&lt;/label&gt;
+    &lt;input type="text" placeholder="Enter text" /&gt;
+&lt;/form&gt;</code></pre>
+
+    <h2>Step 7: Add a Click Counter</h2>
+    <p>Include a paragraph to display the click count and a button that increments the count when clicked.</p>
+    <pre><code>&lt;p id="clickCount"&gt;0&lt;/p&gt;
+&lt;button id="incrementBtn"&gt;Click me!&lt;/button&gt;</code></pre>
+
+    <h2>Step 8: Add JavaScript for Button Functionality</h2>
+    <p>Finally, we’ll write JavaScript to handle the button clicks and update the click count.</p>
+    <pre><code>&lt;script&gt;
+document.addEventListener("DOMContentLoaded", function() {
+    let click = 0;
+    const incrementBtn = document.getElementById('incrementBtn');
+    const clickCount = document.getElementById('clickCount');
+
+    incrementBtn.addEventListener("click", function() {
+        console.log(click);
+        alert("Button clicked");
+        click++;
+        clickCount.textContent = click;
+    });
+});
+&lt;/script&gt;</code></pre>
+
+    <h2>Step 9: Complete HTML Document</h2>
+    <p>Here is the complete HTML document with all the steps combined:</p>
+    <pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;My Website&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;marquee&gt;My Website&lt;/marquee&gt;
+    &lt;h1&gt;Welkam&lt;/h1&gt;
+    &lt;p&gt;This is my website&lt;/p&gt;
+    &lt;img src="URL_TO_IMAGE" alt="Description of Image" /&gt;
+    &lt;a href="URL_TO_LINK"&gt;Click this!&lt;/a&gt;
+
+    &lt;form&gt;
+        &lt;label&gt;FORM&lt;/label&gt;
+        &lt;input type="text" placeholder="Enter text" /&gt;
+    &lt;/form&gt;
+
+    &lt;p id="clickCount"&gt;0&lt;/p&gt;
+    &lt;button id="incrementBtn"&gt;Click me!&lt;/button&gt;
+
+    &lt;script&gt;
+    document.addEventListener("DOMContentLoaded", function() {
+        let click = 0;
+        const incrementBtn = document.getElementById('incrementBtn');
+        const clickCount = document.getElementById('clickCount');
+
+        incrementBtn.addEventListener("click", function() {
+            console.log(click);
+            alert("Button clicked");
+            click++;
+            clickCount.textContent = click;
+        });
+    });
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+</body>
+</html>
