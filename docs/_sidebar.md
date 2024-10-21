@@ -1,12 +1,12 @@
 <!-- docs/_sidebar.md -->
 
 * [DAY 0: Worskhop Prerequisite](DAY0/preparation.md)
-* [DAY 1: FrontEnd Development 🔒](#)
-  <!-- * [Basic Web Development](FrontEnd_Day1/basic_html_js.html) 
-  * [Vue](FrontEnd_Day1/vue.md) --> 
-* [DAY 2: Backend Development 🔒](#)
-  <!-- * [Pocketbase](BackEnd_Day2/PocketBase.md)
-  * [Docker](BackEnd_Day2/Docker)  Nested it.mdem -->
-<!-- * [DAY 3: Project Work and Deployment](Deployment_Day3/github_action.md) -->
-* [DAY 3: Project Work and Deployment 🔒](#)
-<!-- * [Examples] -->
+* [DAY 1: FrontEnd Development 🔒](DAY1/Overview.md)
+  * [● Basic Web Development](DAY1/basic_html_js.html) 
+  * [● Vue](DAY1/Vue.md) 
+* [DAY 2: Backend Development 🔒](DAY2/Overview.md)
+  * [● Pocketbase](DAY2/PocketBase.md)
+  * [● Docker](DAY2/Docker.md)
+* [DAY 3: Project Work and Deployment 🔒](DAY3/Overview.md)
+  * [● Github Action](DAY3/Github_Action.md)
+  * [● Deployment](DAY3/Deployment.md)
