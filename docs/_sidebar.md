@@ -2,7 +2,7 @@
 
 * [DAY 0: Worskhop Prerequisite](DAY0/preparation.md)
 * [DAY 1: FrontEnd Development 🔒](DAY1/Overview.md)
-  * [● Basic Web Development](DAY1/basic_html_js.html) 
+  * [● Basic Web Development](DAY1/html_js_css.md) 
   * [● Vue](DAY1/Vue.md) 
 * [DAY 2: Backend Development 🔒](DAY2/Overview.md)
   * [● Pocketbase](DAY2/PocketBase.md)

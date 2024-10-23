@@ -3,7 +3,7 @@
 ## Overview
 This documentation outlines the structure of a Vue.js component that utilizes the Composition API. The component consists of two main parts:
 
-1. **`<script setup>`**: This section is where we define our reactive data properties and functions. The `setup` syntax is used to simplify the component's setup process and make it easier to use the Composition API.
+1. **`<script setup>`**: This section is where we define our reactive data properties and functions. The `setup` syntax is used to simplify the component's setup process and make it easier to use the Composition API. 
 
 2. **`<template>`**: This section contains the HTML structure of the component. It defines how the component's data will be displayed and how users will interact with it.
 
