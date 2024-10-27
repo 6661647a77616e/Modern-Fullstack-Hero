@@ -8,5 +8,5 @@
   * [● Pocketbase](DAY2/PocketBase.md)
   * [● Docker](DAY2/Docker.md)
 * [DAY 3: Project Work and Deployment 🔒](DAY3/Overview.md)
-  * [● Github Action](DAY3/Github_Action.md)
-  * [● Deployment](DAY3/Deployment.md)
+  <!-- * [● Github Action](DAY3/Github_Action.md)
+  * [● Deployment](DAY3/Deployment.md) -->
