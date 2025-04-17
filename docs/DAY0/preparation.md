@@ -33,18 +33,8 @@ Now, download PocketBase, a lightweight backend solution.
 
 <img src="https://camo.githubusercontent.com/3b198a3ea92b78b9f56f6ec7c2eea0d81ee57ec8b4e2420cde3e1fecedcbc2c7/68747470733a2f2f692e696d6775722e636f6d2f3571696d6e6d352e706e67" alt="PocketBase Overview" width="600" />
 
-## Step 4: Download Docker
 
-Next, download Docker for containerization.
-
-1. Visit the [Docker download page](https://www.docker.com/).
-2. Choose the appropriate version for your system:
-   - **AMD**: Suitable for most modern processors, typically for Windows and Intel processors.
-   - **ARM**: Designed for ARM-based devices, commonly used in mobile devices and some laptops.
-
-<img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/04/075c8694.jpeg?q=50&fit=crop&w=1140&h=&dpr=1.5" alt="Docker Download Page" width="600" />
-
-## Step 5: Create a GitHub Account
+## Step 4: Create a GitHub Account
 
 To manage your code repositories, create a GitHub account.
 
@@ -53,11 +43,3 @@ To manage your code repositories, create a GitHub account.
 
 <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" alt="GitHub Signup Page" width="600" />
 
-## Step 6: Prepare Debit Card for Digital Ocean
-
-Lastly, prepare a debit card for your Digital Ocean account for the deployment phase in Day 3.
-
-1. Visit the [Digital Ocean signup page](https://www.digitalocean.com).
-2. Follow the prompts to create an account and enter your payment information.
-
-<img src="https://www.bluepowertechnology.com/uploads/product/digital-ocean.png" alt="Digital Ocean Homepage" width="600" />
