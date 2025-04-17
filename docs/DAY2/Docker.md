@@ -1,4 +1,4 @@
-# Docker Documentation
+<!-- # Docker Documentation
 
 This document provides a step-by-step guide to creating a Docker image for a Node.js application. We'll break down the Dockerfile line by line and explain its purpose.
 
@@ -117,4 +117,4 @@ This command maps port 4173 of the container to port 4173 on your host machine, 
 
 ## Conclusion
 
-You have now created a Docker image for your Node.js application, including all necessary steps and configurations. This Docker setup provides a consistent environment for running your application across different systems.
+You have now created a Docker image for your Node.js application, including all necessary steps and configurations. This Docker setup provides a consistent environment for running your application across different systems. -->
